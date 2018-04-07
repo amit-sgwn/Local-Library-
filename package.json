@@ -1,0 +1,19 @@
+{
+  "name": "locallibrary",
+  "version": "1.0.0",
+  "description": "Sample Library App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-sgwn/Local-Library-.git"
+  },
+  "author": "Amit Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amit-sgwn/Local-Library-/issues"
+  },
+  "homepage": "https://github.com/amit-sgwn/Local-Library-#readme"
+}
